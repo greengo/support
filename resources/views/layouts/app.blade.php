@@ -42,6 +42,7 @@
                     <li><a href="{{ url('/manuals') }}">Manuals</a></li>
                     <li><a href="{{ url('/guides') }}">Guides</a></li>
                     <li><a href="{{ url('/faq') }}">FAQ</a></li>
+                    <li><a href="#">Contact (not working yet)</a></li>
                 </ul>
 
 

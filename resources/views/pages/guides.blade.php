@@ -8,7 +8,10 @@
                 <div class="panel-heading">Instructional Guides</div>
 
                 <div class="panel-body">
-                    List of links to download instruction guides.
+                    <h3>public guides for customers</h3>
+                    <ul>
+                      <li>Errors &amp; Issues</li>
+                    </ul>
                 </div>
             </div>
         </div>
