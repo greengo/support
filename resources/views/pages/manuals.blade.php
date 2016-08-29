@@ -16,7 +16,7 @@
 
     <div class="row">
       <div class="col-md-10 col-md-offset-1">
-        
+
           <!-- Nav tabs category -->
           <ul class="nav nav-tabs faq-cat-tabs">
               <li class="active"><a href="#faq-cat-1" data-toggle="tab">Inverters</a></li>
@@ -50,6 +50,40 @@
                               <a data-toggle="collapse" data-parent="#accordion-cat-1" href="#faq-cat-1-sub-2">
                                   <h4 class="panel-title">
                                       Danfoss TLX
+                                      <span class="pull-right"><i class="glyphicon glyphicon-plus"></i></span>
+                                  </h4>
+                              </a>
+                          </div>
+                          <div id="faq-cat-1-sub-2" class="panel-collapse collapse">
+                              <div class="panel-body">
+                                <ul>
+                                  <li>Manual</li>
+                                </ul>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="panel panel-default panel-faq">
+                          <div class="panel-heading">
+                              <a data-toggle="collapse" data-parent="#accordion-cat-1" href="#faq-cat-1-sub-2">
+                                  <h4 class="panel-title">
+                                      ABB Trio
+                                      <span class="pull-right"><i class="glyphicon glyphicon-plus"></i></span>
+                                  </h4>
+                              </a>
+                          </div>
+                          <div id="faq-cat-1-sub-2" class="panel-collapse collapse">
+                              <div class="panel-body">
+                                <ul>
+                                  <li>Manual</li>
+                                </ul>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="panel panel-default panel-faq">
+                          <div class="panel-heading">
+                              <a data-toggle="collapse" data-parent="#accordion-cat-1" href="#faq-cat-1-sub-2">
+                                  <h4 class="panel-title">
+                                      Fronius SYMO
                                       <span class="pull-right"><i class="glyphicon glyphicon-plus"></i></span>
                                   </h4>
                               </a>
