@@ -64,14 +64,14 @@
                       </div>
                       <div class="panel panel-default panel-faq">
                           <div class="panel-heading">
-                              <a data-toggle="collapse" data-parent="#accordion-cat-1" href="#faq-cat-1-sub-2">
+                              <a data-toggle="collapse" data-parent="#accordion-cat-1" href="#faq-cat-1-sub-3">
                                   <h4 class="panel-title">
                                       ABB Trio
                                       <span class="pull-right"><i class="glyphicon glyphicon-plus"></i></span>
                                   </h4>
                               </a>
                           </div>
-                          <div id="faq-cat-1-sub-2" class="panel-collapse collapse">
+                          <div id="faq-cat-1-sub-3" class="panel-collapse collapse">
                               <div class="panel-body">
                                 <ul>
                                   <li>Manual</li>
@@ -81,14 +81,14 @@
                       </div>
                       <div class="panel panel-default panel-faq">
                           <div class="panel-heading">
-                              <a data-toggle="collapse" data-parent="#accordion-cat-1" href="#faq-cat-1-sub-2">
+                              <a data-toggle="collapse" data-parent="#accordion-cat-1" href="#faq-cat-1-sub-4">
                                   <h4 class="panel-title">
                                       Fronius SYMO
                                       <span class="pull-right"><i class="glyphicon glyphicon-plus"></i></span>
                                   </h4>
                               </a>
                           </div>
-                          <div id="faq-cat-1-sub-2" class="panel-collapse collapse">
+                          <div id="faq-cat-1-sub-4" class="panel-collapse collapse">
                               <div class="panel-body">
                                 <ul>
                                   <li>Manual</li>
@@ -110,6 +110,23 @@
                               </a>
                           </div>
                           <div id="faq-cat-2-sub-1" class="panel-collapse collapse">
+                              <div class="panel-body">
+                                <ul>
+                                  <li>Manual</li>
+                                </ul>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="panel panel-default panel-faq">
+                          <div class="panel-heading">
+                              <a data-toggle="collapse" data-parent="#accordion-cat-2" href="#faq-cat-2-sub-2">
+                                  <h4 class="panel-title">
+                                      Fronius Datamanager / Sensorbox
+                                      <span class="pull-right"><i class="glyphicon glyphicon-plus"></i></span>
+                                  </h4>
+                              </a>
+                          </div>
+                          <div id="faq-cat-2-sub-2" class="panel-collapse collapse">
                               <div class="panel-body">
                                 <ul>
                                   <li>Manual</li>
