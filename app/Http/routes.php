@@ -21,3 +21,5 @@ Route::get('/home', 'HomeController@index');
 Route::get('/manuals', 'HomeController@manuals');
 Route::get('/guides', 'HomeController@guides');
 Route::get('/faq', 'HomeController@faq');
+
+Route::get('/internal', 'InternalController@index');
