@@ -25,4 +25,6 @@ Route::get('/faq', 'HomeController@faq');
 
 Route::get('/internal', 'InternalController@index');
 
-Route::get('/datahub', 'InternalController@datahub');
+Route::get('/datahub', 'DatahubController@index');
+
+Route::get('/datahub/retur', 'DatahubController@retur');
