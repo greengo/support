@@ -16,7 +16,7 @@
                     <p>Har du spørgsmål til løsningen eller dine muligheder og ansvar som tredjepart er du velkommen til at skrive til <a href="mailto:markedsdrift@energinet.dk?Subject=Tredjepartsadgang">markedsdrift@energinet.dk</a>. Mærk venligst emnefeltet: Tredjepartsadgang.</p>
 
                     <p><b>Test URL:</b><br/>
-                      <a href="https://tredjepart.eloverblik.dk/register?thirdPartyId=65541c50-48f4-40bc-ad31-7fe2451c802f&thirdPartyKey=4321&returnurl=http://support.greengo.energy">https://tredjepart.eloverblik.dk/register?thirdPartyId=65541c50-48f4-40bc-ad31-7fe2451c802f&thirdPartyKey=4321&returnurl=http://support.greengo.energy</a>
+                      <a href="https://tredjepart.eloverblik.dk/register?thirdPartyId=65541c50-48f4-40bc-ad31-7fe2451c802f&thirdPartyKey=roks&returnurl=http://support.greengo.energy/datahub/retur">https://tredjepart.eloverblik.dk/register?thirdPartyId=65541c50-48f4-40bc-ad31-7fe2451c802f&thirdPartyKey=4321&returnurl=http://support.greengo.energy/datahub/retur</a>
                     </p>
                     <!--
                     https://tredjepart.eloverblik.dk/register?thirdPartyId=b2ce4073-89d2-4d3c-80a5-0cf70e143cf2&thirdPartyKey=4321
