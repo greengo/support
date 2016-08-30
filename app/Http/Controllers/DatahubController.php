@@ -18,6 +18,6 @@ class DatahubController extends Controller
 
       // register that $key has given access to their meters.
 
-      return view('pages.datahub.retur', $tp_key);
+      return view('pages.datahub.retur', ['tp_key' => $tp_key]);
     }
 }
