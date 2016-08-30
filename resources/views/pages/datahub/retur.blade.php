@@ -12,7 +12,7 @@
 
                     <p>
                       <b>Key:</b><br/>
-                      {{$key}}
+                      {{$tp_key}}
                     </p>
 
                 </div>
