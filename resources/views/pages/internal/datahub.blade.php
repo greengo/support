@@ -24,6 +24,12 @@
                     https://tredjepart.eloverblik.dk/register?thirdPartyId=65541c50-48f4-40bc-ad31-7fe2451c802f&thirdPartyKey=roks1982&returnurl=http://support.greengo.energy
                     -->
 
+                    <p>
+                      For at komme ordentligt i gang henviser vi dig til nyheder og dokumentation for tredjepartsadgang via:<br/>
+
+                      <a href="http://www.energinet.dk/SiteCollectionDocuments/Danske%20dokumenter/El/Vejledning-%20Kundestyret%20adgang%20til%20data.pdf">Vejledning for tredjeparter</a>
+                    </p>
+
 
                 </div>
             </div>
