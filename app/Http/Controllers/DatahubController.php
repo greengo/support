@@ -14,7 +14,7 @@ class DatahubController extends Controller
 
     public function retur(){
 
-      //$key = Input::get('thirdPartyKey', 'default key');
+      $tp_key = Input::get('thirdPartyKey', 'default key');
 
       //dd($key);
 
