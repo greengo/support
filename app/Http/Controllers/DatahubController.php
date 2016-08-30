@@ -12,7 +12,7 @@ class DatahubController extends Controller
       return view('pages.datahub.index');
     }
 
-    public function index(){
+    public function retur(){
 
       $key = Input::get('thirdPartyKey', 'default key');
 
