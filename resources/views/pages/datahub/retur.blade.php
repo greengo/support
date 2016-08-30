@@ -10,6 +10,11 @@
                 <div class="panel-body">
                     <p>Tak fordi du har givet os adgang til din(e) elmåler(e).</p>
 
+                    <p>
+                      <b>Key:</b><br/>
+                      {{$key}}
+                    </p>
+
                 </div>
             </div>
         </div>

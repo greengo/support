@@ -14,10 +14,10 @@ class DatahubController extends Controller
 
     public function retur(Request $request){
 
-      $key = $request->input('thirdPartyKey', 'default key');
+      $key = $request->input('thirdPartyKey', 'no key passed');
 
-      dd($key);
+      // register that $key has given access to their meters.
 
-      return view('pages.datahub.retur');
+      return view('pages.datahub.retur')->with($key);
     }
 }
