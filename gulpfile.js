@@ -1,4 +1,6 @@
-var elixir = require('laravel-elixir');
+const elixir = require('laravel-elixir');
+
+require('laravel-elixir-vue');
 
 /*
  |--------------------------------------------------------------------------
@@ -11,11 +13,7 @@ var elixir = require('laravel-elixir');
  |
  */
 
-elixir(function(mix) {
-    mix.sass('app.scss');
-});
-
-
-elixir(function(mix) {
-    mix.version('css/app.css');
+elixir(mix => {
+    mix.sass('app.scss')
+       .webpack('app.js');
 });
