@@ -16,7 +16,7 @@ class DatahubController extends Controller
 
       $key = Input::get('thirdPartyKey', 'default key');
 
-      dd($key);
+      //dd($key);
 
       return view('pages.datahub.retur');
     }
